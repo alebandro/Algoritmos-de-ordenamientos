@@ -8,5 +8,6 @@ def bubble_sort(lista):
     return lista
 
 # Ejemplo de uso
-numeros = [64, 34, 25, 12, 22, 11, 90]
-print("Lista ordenada:", bubble_sort(numeros))
+#numeros = [64, 34, 25, 12, 22, 11, 90]
+
+#print("Lista ordenada:", bubble_sort(numeros))
