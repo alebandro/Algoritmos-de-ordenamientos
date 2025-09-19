@@ -39,6 +39,7 @@ def merge_sort_iterativo(lista):
     return lista
 
 # Ejemplo de uso:
-lista = [38, 27, 43, 3, 9, 82, 10]
-ordenada = merge_sort_iterativo(lista[:])  # lista[:] para no modificar la original
-print("Lista ordenada:", ordenada)
+#lista = [38, 27, 43, 3, 9, 82, 10]
+#ordenada = merge_sort_iterativo(lista[:])  # lista[:] para no modificar la original
+#print("Lista ordenada:", ordenada)
+
