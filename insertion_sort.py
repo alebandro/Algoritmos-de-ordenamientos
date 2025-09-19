@@ -12,5 +12,6 @@ def insertion_sort(lista):
     return lista
 
 # Ejemplo de uso:
-lista2 = [29, 10, 14, 37, 13]
-print("Insertion Sort:", insertion_sort(lista2))
+#lista2 = [29, 10, 14, 37, 13]
+#print("Insertion Sort:", insertion_sort(lista2))
+
