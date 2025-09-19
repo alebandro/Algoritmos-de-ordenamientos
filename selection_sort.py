@@ -12,5 +12,6 @@ def selection_sort(lista):
     return lista
 
 # Ejemplo de uso:
-lista1 = [29, 10, 14, 37, 13]
-print("Selection Sort:", selection_sort(lista1))
+#lista1 = [29, 10, 14, 37, 13]
+#print("Selection Sort:", selection_sort(lista1))
+
