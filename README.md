@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+
 # Algoritmos de Ordenamiento en Python
 
 Este proyecto implementa algunos de los algoritmos de ordenamiento más comunes en Python:  
